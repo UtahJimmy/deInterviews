@@ -4,15 +4,15 @@ title: About
 ---
 
 <p class="message">
-  Hi there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  This is supplemental material for the data engagement interview paper....
 </p>
 
-## About BlackDoc Theme
+## About the data engagement interview method
 
-Some relevant information about this project:
+Details here
 
-* Built for [Jekyll](http://jekyllrb.com){:target="_blank"}
-* Theme based on [Poole](http://getpoole.com){:target="_blank"}, the Jekyll butler, and the [Hyde](http://hyde.getpoole.com){:target="_blank"} theme
-* Ideal for sites requiring master-detail layout such as documentation, cheatsheets, lyrics, notes, etc.
-* Need a beautiful color scheme for black background? Then you will love BlackDoc theme.
+* Paper
+* J. Moore, P. Goffin, J. Wiese, and M. Meyer
+* Read our paper: [An interview method for engaging personal data](https://vdl.sci.utah.edu/team/moore/){:target="_blank"}
+
 
